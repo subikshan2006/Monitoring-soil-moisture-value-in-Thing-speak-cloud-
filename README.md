@@ -138,12 +138,13 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-<img width="1030" height="550" alt="Screenshot 2025-11-11 191625" src="https://github.com/user-attachments/assets/126c6dfc-8b0e-436e-9270-550952f6c468" />
+![Ex_05](https://github.com/user-attachments/assets/8d00de15-c58e-47aa-8362-8ac9a696a230)
 
 # OUTPUT:
-<img width="1027" height="224" alt="Screenshot 2025-11-11 191644" src="https://github.com/user-attachments/assets/7209df04-62d0-46ce-a0a2-f2466f4424f1" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bcbf98ab-69bf-4a7e-b964-ab371e3c47e2" />
 
-<img width="1015" height="520" alt="Screenshot 2025-11-11 191654" src="https://github.com/user-attachments/assets/7d83f075-a7ac-472c-91fb-ae785ce1af40" />
+<img width="1408" height="736" alt="screenshot 25" src="https://github.com/user-attachments/assets/530d61b7-dac4-429f-bbf0-be9cc27320cb" />
+
 
 
 # RESULT:
